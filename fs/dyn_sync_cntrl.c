@@ -195,7 +195,7 @@ static struct kobject *dyn_fsync_kobj;
 
 // Module init/exit
 
-static int dyn_fsync_init(void struct notifier_block)
+static int dyn_fsync_init(void)
 {
 	int sysfs_result;
 	int state_register_client(struct notifier_block *nb);
