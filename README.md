@@ -3,5 +3,4 @@
 ### With added modifications of Otus9051 and the LinuxForExy7870 team for the on7xelte and Lineage 19.0 along with postmarketOS
 ### Info:
 1. Compiles with CLang or GCC alike
-2. Currently broken due to dyn_sync_cntrl.c has missing stuff and/or non working code
-3. Pull requests or Issues are encouraged
+2. Pull requests or Issues are encouraged
